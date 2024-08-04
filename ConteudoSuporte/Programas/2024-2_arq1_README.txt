@@ -13,6 +13,8 @@ Itens
 - JFLAP   v7.1
 - Logisim v2.16.1.x (ou superior, versão mais atualizada) 
 
+___
+
 Instalação
 
 O arquivo compactado deverá ser expandido em uma 
@@ -114,6 +116,13 @@ Nota: O script compile.sh precisará ter permissões para
 
       chmod +x compile.sh
   
+Em qualquer ambiente que dispuser de recurso para 
+compilação e execução automática via Makefile, 
+basta usar
+
+make
+
+___
 
 Observações
 
@@ -134,6 +143,8 @@ Por iso, sugere-se o uso da primeira, tomando
 as providências necessárias para a sua 
 localização no sistema operacional.
 
+___
+
 Em ambientes Linux o Icarus_Verilog e o GTKWAVE
 podem ser instalados via
 
@@ -143,6 +154,30 @@ sudo apt     install iverilog gtkwave
 
 embora as versões possam diferir entre sistemas,
 outras ainda recentes, serão aceitáveis.
+
+__
+
+Em ambientes MacOs Icarus_Verilog e o GTKWAVE
+podem ser instalados via
+
+Para instalar Verilog:
+
+https://brew.sh
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+brew install icarus-verilog
+brew cask install scansion
+
+Para instalar GTKWave:
+
+https://gtkwave.sourceforge.net/
+
+Link do vídeo sobre a instalação:
+
+https://www.youtube.com/watch?v=jUYkYoYr8hs
+
+___
 
 Caso não seja possível instalar, recomendam-se
 compiladores online gratuitos como
