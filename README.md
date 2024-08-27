@@ -1,6 +1,6 @@
 # Arquitetura de Computadores I
 
-Olá! Sou Bernardo Vieira Rocha, estudante de Ciência da Computação na PUC Minas. Este repositório é dedicado aos projetos e atividades da disciplina **Arquitetura e Organização de Computadores I**. Aqui, você encontrará exemplos práticos e teóricos que exploram desde os conceitos básicos até as aplicações avançadas em arquitetura de computadores.
+Olá! Sou Bernardo Vieira Rocha, estudante de Ciência da Computação na PUC Minas. Este repositório é dedicado aos projetos e atividades da disciplina **Arquitetura e Organização de Computadores I** do Professor Theldo Cruz Franqueira. Aqui, você encontrará exemplos práticos e teóricos que exploram desde os conceitos básicos até as aplicações avançadas em arquitetura de computadores.
 
 #### Sumário:
 1. [Descrição da Disciplina](#descrição-da-disciplina)
