@@ -1,4 +1,4 @@
-### Bem-vindo ao meu Portfólio de Arquitetura de Computadores I
+### Bem-vindo ao meu Repositório de Arquitetura de Computadores I
 
 Olá! Sou Bernardo Vieira Rocha, estudante de Ciência da Computação na PUC Minas. Este repositório é dedicado aos projetos e atividades da disciplina **Arquitetura e Organização de Computadores I**. Aqui, você encontrará exemplos práticos e teóricos que exploram desde os conceitos básicos até as aplicações avançadas em arquitetura de computadores.
 
@@ -28,4 +28,4 @@ Para complementar os estudos, utilizei as seguintes referências bibliográficas
 Este repositório não é apenas uma coleção de códigos, mas um testemunho do meu progresso e aprendizado em Arquitetura de Computadores I. Espero que você ache útil e inspirador. Sinta-se à vontade para explorar, clonar e contribuir!
 
 #### Contato
-Se tiver dúvidas ou sugestões, entre em contato comigo pelo [e-mail](mailto:bernardo.rocha@pucminas.br) ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/bernardovieirar/).
+Se tiver dúvidas ou sugestões, entre em contato comigo pelo [e-mail](mailto:bernardo.rocha.676403@pucminas.br) ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/bernardovieirarocha/).
